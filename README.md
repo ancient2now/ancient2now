@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+个人邮箱: ancient2now@qq.com  
+工作邮箱: ljq281338@alibaba-inc.com
+
+**I'm a happy guy,  so... look forward to making friends with you.**
+
 <!--
 **ancient2now/ancient2now** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
