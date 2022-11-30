@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Personal Email: ancient2now@qq.com  
-Work Email: ljq281338@alibaba-inc.com
+`Personal Email:` ancient2now@qq.com  
+`Work Email:` ljq281338@alibaba-inc.com
 
 **I'm a happy guy,  so... looking forward to making friends with you.**
 
