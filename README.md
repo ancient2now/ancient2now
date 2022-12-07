@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-`Personal Email:` ancient2now@qq.com  
-`Work Email:` ljq281338@alibaba-inc.com
+* `Personal Email:` ancient2now@qq.com  
+* `Work Email:` ljq281338@alibaba-inc.com
+* `My Blog:` https://blog.akikun.com
+* `My Resume:` https://resume.akikun.com
 
 **I'm a happy guy,  so... looking forward to making friends with you.**
 
-[View More](https://ancient2now.github.io)
+[`View More`](https://ancient2now.github.io)
 
 <!--
 **ancient2now/ancient2now** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
